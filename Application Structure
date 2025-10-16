@@ -1,0 +1,13 @@
+src/
+ └─ main/
+     ├─ java/com/example/polls/
+     │   ├─ Poll.java
+     │   ├─ PollRepository.java
+     │   ├─ PollController.java
+     │   └─ PollsApplication.java
+     └─ resources/
+         └─ templates/
+             ├─ index.jte
+             ├─ create_poll.jte
+             ├─ add_answers.jte
+             └─ view_poll.jte
